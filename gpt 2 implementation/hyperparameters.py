@@ -1,0 +1,9 @@
+L_MAX = 16
+L = 2
+H = 2
+D_E = 8
+D_MLP = 32
+D_ATTN = 4
+D_MID = 4
+D_OUT_HEAD = 4
+N_V = 20
